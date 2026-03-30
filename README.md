@@ -5,7 +5,9 @@ Spreading awareness on Digital Literacy
 
 ## Student Details
 Name: Nabhya Navale
+
 Reg No: 25BSA10182
+
 Course: CSE0001 – Digital Literacy
 ## Project Overview
 This project is created as part of the Digital Literacy course at VIT Bhopal. It focuses on
