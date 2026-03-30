@@ -38,7 +38,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSflF4y069tSsxzBTNHoOfWGWxwCv6DfDbbRn8uT
 I am a first-year B.Tech student pursuing B.Tech in CSE Specialized in Artificial Intelligence
 and Machine Learning.
 
-| Eager to Learn & Contribute | Aspiring Software Developer | Learning Java, HTML & Python | Passionate about technology and its potential to solve real-world problems 
+| Eager to Learn & Contribute | Aspiring Software Developer | Learning Java, HTML & Python | Passionate about technology and its potential to solve real-world problems | 
 ## Conclusion
 This project helped me understand the importance of digital literacy, professional
 communication, and online safety in today's world.
