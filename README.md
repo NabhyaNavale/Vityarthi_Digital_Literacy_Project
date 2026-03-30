@@ -40,3 +40,8 @@ and Machine Learning.
 ## Conclusion
 This project helped me understand the importance of digital literacy, professional
 communication, and online safety in today's world.
+## References
+LinkedIn : https://linkedin.com/ 
+GitHub : https://github.com/
+Canva : https://canva.com/
+HackerRank : https://hackerrank.com/
