@@ -13,7 +13,9 @@ LINK: https://docs.google.com/forms/d/e/1FAIpQLSflF4y069tSsxzBTNHoOfWGWxwCv6DfDb
 This folder contains:
 
 Screenshot of completed HackerRank problem
+
 Screenshot of Google Form (questions view)
+
 Screenshot of responses section
 
 ## 🎯 Learning Outcome
