@@ -35,8 +35,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSflF4y069tSsxzBTNHoOfWGWxwCv6DfDbbRn8uT
 - Google Forms
 - Kaggle
 ## About Me
-I am a first-year B.Tech student pursuing B.Tech in CSE Specialized in Artificial Intelligence
-and Machine Learning.
+I am a first-year B.Tech student pursuing B.Tech in CSE Specialized in Cloud Computing and Automation
 
 | Eager to Learn & Contribute | Aspiring Software Developer | Learning Java, HTML & Python | Passionate about technology and its potential to solve real-world problems | 
 ## Conclusion
